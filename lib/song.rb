@@ -64,3 +64,6 @@ end
 #atliens = Song.new("ATLiens", "Outkast", "Rap")
 
 #tupac = Song.new("California Love", "Tupac", "Rap")
+
+#ms_jackson = Song.new("Ms. Jackson", "Outkast", "Rap")
+
